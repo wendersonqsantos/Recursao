@@ -1,0 +1,14 @@
+C:\Users\wende\source\repos\Recursao\somaArray\somaArray\bin\Debug\netcoreapp3.1\somaArray.exe
+C:\Users\wende\source\repos\Recursao\somaArray\somaArray\bin\Debug\netcoreapp3.1\somaArray.deps.json
+C:\Users\wende\source\repos\Recursao\somaArray\somaArray\bin\Debug\netcoreapp3.1\somaArray.runtimeconfig.json
+C:\Users\wende\source\repos\Recursao\somaArray\somaArray\bin\Debug\netcoreapp3.1\somaArray.runtimeconfig.dev.json
+C:\Users\wende\source\repos\Recursao\somaArray\somaArray\bin\Debug\netcoreapp3.1\somaArray.dll
+C:\Users\wende\source\repos\Recursao\somaArray\somaArray\bin\Debug\netcoreapp3.1\somaArray.pdb
+C:\Users\wende\source\repos\Recursao\somaArray\somaArray\obj\Debug\netcoreapp3.1\somaArray.csproj.AssemblyReference.cache
+C:\Users\wende\source\repos\Recursao\somaArray\somaArray\obj\Debug\netcoreapp3.1\somaArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wende\source\repos\Recursao\somaArray\somaArray\obj\Debug\netcoreapp3.1\somaArray.AssemblyInfoInputs.cache
+C:\Users\wende\source\repos\Recursao\somaArray\somaArray\obj\Debug\netcoreapp3.1\somaArray.AssemblyInfo.cs
+C:\Users\wende\source\repos\Recursao\somaArray\somaArray\obj\Debug\netcoreapp3.1\somaArray.csproj.CoreCompileInputs.cache
+C:\Users\wende\source\repos\Recursao\somaArray\somaArray\obj\Debug\netcoreapp3.1\somaArray.dll
+C:\Users\wende\source\repos\Recursao\somaArray\somaArray\obj\Debug\netcoreapp3.1\somaArray.pdb
+C:\Users\wende\source\repos\Recursao\somaArray\somaArray\obj\Debug\netcoreapp3.1\somaArray.genruntimeconfig.cache
